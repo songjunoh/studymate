@@ -1,0 +1,13 @@
+# DB 설정 파일
+/lib/db.php
+
+# 업로드 파일
+/uploads/
+
+# XAMPP / PHP 관련
+*.log
+*.tmp
+
+# OS 파일
+.DS_Store
+Thumbs.db
