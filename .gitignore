@@ -1,7 +1,7 @@
-# DB & 보안
+# DB 접속 정보만 제외
 /lib/db.php
 
-# 업로드 파일
+# 업로드 파일은 제외
 /uploads/
 
 # 환경 파일
@@ -9,7 +9,3 @@
 
 # 로그
 *.log
-
-# OS
-.DS_Store
-Thumbs.db
