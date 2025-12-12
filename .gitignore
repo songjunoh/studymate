@@ -1,13 +1,15 @@
-# DB 설정 파일
+# DB & 보안
 /lib/db.php
 
 # 업로드 파일
 /uploads/
 
-# XAMPP / PHP 관련
-*.log
-*.tmp
+# 환경 파일
+.env
 
-# OS 파일
+# 로그
+*.log
+
+# OS
 .DS_Store
 Thumbs.db
