@@ -66,6 +66,14 @@ studymate/
 ├─ guestbook.php
 └─ ...
 
+
+## ⚠️ 보안
+- DB 정보는 `.gitignore`로 제외
+- 비밀번호는 `password_hash()` 사용
+
+## 📌 과제 목적
+PHP와 MySQL을 활용한 웹 애플리케이션 CRUD 및 세션 처리 학습
+
 ---
 
 ## 🗄 데이터베이스 구조 (요약)
