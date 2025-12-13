@@ -59,7 +59,20 @@ studymate/
 ├── guestbook.php
 └── README.md
 
+---
 
+## 🌐 브라우저 접속 방법
+
+1. **XAMPP 실행**
+   - Apache, MySQL 실행
+
+2. 프로젝트 위치
+C:\xampp\htdocs\studymate
+
+3. 브라우저에서 접속
+http://localhost/studymate
+4. 관리자 페이지 접속 (관리자 계정 로그인 후)
+http://localhost/studymate/admin/admin_dashboard.php
 ---
 
 ## ⚠️ 주의사항
